@@ -1,4 +1,4 @@
-	# Basic Javascript Calculator
+# Basic Javascript Calculator
 
 ### My solution ✌️to [freecodecamp](https://freecodecamp.org)'s Front End Development Library challenge: [Build a javascript calculator](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator)
 &nbsp;  
